@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/tmp/kavia/workspace/code-generation/hello-world-command-line-238376-238390/hello_world_backend"
+}
